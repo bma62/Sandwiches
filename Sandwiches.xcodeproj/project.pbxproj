@@ -11,6 +11,8 @@
 		6489740425A50E950049AB5B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6489740325A50E950049AB5B /* ContentView.swift */; };
 		6489740625A50E950049AB5B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6489740525A50E950049AB5B /* Assets.xcassets */; };
 		6489740925A50E950049AB5B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6489740825A50E950049AB5B /* Preview Assets.xcassets */; };
+		6489741225A5121A0049AB5B /* Sandwich.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6489741125A5121A0049AB5B /* Sandwich.swift */; };
+		6489741525A51CCD0049AB5B /* SandwichDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6489741425A51CCD0049AB5B /* SandwichDetail.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +22,8 @@
 		6489740525A50E950049AB5B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6489740825A50E950049AB5B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		6489740A25A50E950049AB5B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6489741125A5121A0049AB5B /* Sandwich.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sandwich.swift; sourceTree = "<group>"; };
+		6489741425A51CCD0049AB5B /* SandwichDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SandwichDetail.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,8 @@
 			children = (
 				6489740125A50E950049AB5B /* SandwichesApp.swift */,
 				6489740325A50E950049AB5B /* ContentView.swift */,
+				6489741425A51CCD0049AB5B /* SandwichDetail.swift */,
+				6489741125A5121A0049AB5B /* Sandwich.swift */,
 				6489740525A50E950049AB5B /* Assets.xcassets */,
 				6489740A25A50E950049AB5B /* Info.plist */,
 				6489740725A50E950049AB5B /* Preview Content */,
@@ -140,6 +146,8 @@
 			files = (
 				6489740425A50E950049AB5B /* ContentView.swift in Sources */,
 				6489740225A50E950049AB5B /* SandwichesApp.swift in Sources */,
+				6489741225A5121A0049AB5B /* Sandwich.swift in Sources */,
+				6489741525A51CCD0049AB5B /* SandwichDetail.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

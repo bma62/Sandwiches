@@ -11,7 +11,7 @@ import SwiftUI
 struct SandwichesApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContentView(sandwiches: testData)
         }
     }
 }
