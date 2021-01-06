@@ -13,6 +13,7 @@
 		6489740925A50E950049AB5B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6489740825A50E950049AB5B /* Preview Assets.xcassets */; };
 		6489741225A5121A0049AB5B /* Sandwich.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6489741125A5121A0049AB5B /* Sandwich.swift */; };
 		6489741525A51CCD0049AB5B /* SandwichDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6489741425A51CCD0049AB5B /* SandwichDetail.swift */; };
+		6489741825A613C90049AB5B /* SandwichStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6489741725A613C90049AB5B /* SandwichStore.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		6489740A25A50E950049AB5B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6489741125A5121A0049AB5B /* Sandwich.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sandwich.swift; sourceTree = "<group>"; };
 		6489741425A51CCD0049AB5B /* SandwichDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SandwichDetail.swift; sourceTree = "<group>"; };
+		6489741725A613C90049AB5B /* SandwichStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SandwichStore.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				6489740125A50E950049AB5B /* SandwichesApp.swift */,
 				6489740325A50E950049AB5B /* ContentView.swift */,
+				6489741725A613C90049AB5B /* SandwichStore.swift */,
 				6489741425A51CCD0049AB5B /* SandwichDetail.swift */,
 				6489741125A5121A0049AB5B /* Sandwich.swift */,
 				6489740525A50E950049AB5B /* Assets.xcassets */,
@@ -144,6 +147,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6489741825A613C90049AB5B /* SandwichStore.swift in Sources */,
 				6489740425A50E950049AB5B /* ContentView.swift in Sources */,
 				6489740225A50E950049AB5B /* SandwichesApp.swift in Sources */,
 				6489741225A5121A0049AB5B /* Sandwich.swift in Sources */,
